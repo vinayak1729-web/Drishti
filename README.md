@@ -3,6 +3,8 @@
 ## Overview
 
 Drishti is an IoT-based assistive device designed to aid visually impaired individuals in navigating their surroundings safely. The device integrates ultrasonic sensors for obstacle detection, a Raspberry Pi for processing sensor data, and object detection using a Raspberry Pi camera. Drishti also incorporates the Google Assistant API to provide voice-based guidance and assistance to the user.
+## basic circuit diagram
+![Alt Text](/iot.jpg)
 
 ## Features
 
